@@ -10,8 +10,8 @@ let handler = async (m, { conn, usedPrefix }) => {
 
 🔥Nurutomo: 
 https://github.com/Nurutomo
-🔥Elyas:
-https://github.com/Paquito1923
+🔥Amirr:
+https://github.com/USER0106
 🔥Hyzer Official:
 https://github.com/Hyzerr
 🔥Krizyn Ofc:
